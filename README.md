@@ -1,7 +1,7 @@
 ## This project focused on the Kaggle competition `Natural Language Processing with Disaster Tweets`. The required dataset is obtained from and submission for this competition are made on Kaggle.
 ## Link to Competition: https://www.kaggle.com/competitions/nlp-getting-started/overview
 
-### GitHub link: 
+### GitHub link: https://github.com/moreharsh/Disaster-Tweets-Classification
 
 ## The final code is added to the `P8_ALDA.ipynb` file. We have also added the code which we used for Midway report submission.
 ## For this project we are using Python 3.12.7 version.
